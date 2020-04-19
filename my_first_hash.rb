@@ -3,7 +3,7 @@ types_of_aliens = {
   "zorbulerans" => "peaceful"
   "carixnaxti" => "neutral"
   "ji" => "dangerous"
-  "shx" = "avoid at all costs"
+  "shx" => "avoid at all costs"
 }
 types_of_hashes
 end 
