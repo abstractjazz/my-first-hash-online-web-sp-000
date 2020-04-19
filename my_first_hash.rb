@@ -8,7 +8,6 @@ types_of_aliens = {
 types_of_hashes
 end
 
-end
 
 
 def shipping_manifest
