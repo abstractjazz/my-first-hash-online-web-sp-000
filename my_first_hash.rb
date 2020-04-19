@@ -5,7 +5,7 @@ types_of_aliens = {
   "ji" => "dangerous",
   "shx" => "avoid at all costs"
 }
-types_of_hashes
+types_of_aliens
 end
 
 
